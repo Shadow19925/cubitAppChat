@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1085314287004",
+    "project_id": "blocapptest",
+    "storage_bucket": "blocapptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085314287004:android:d362a83cfadeffd1f7f459",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085314287004-r9rbt2v5dvsvf6knqkggr65dg79dphs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR58X4QcX7G7oXYnti1Wz5T1A0dXTJUZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085314287004-r9rbt2v5dvsvf6knqkggr65dg79dphs2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085314287004-ea1a713eme5tp8i0ehh1prlgi8nufkac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blocApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
